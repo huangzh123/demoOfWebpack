@@ -1,5 +1,5 @@
 "use strict";
-var People=require("../components/people.js");
+var People=require("./people.js");
 
 require("./main.css");
 require("./index.scss");
